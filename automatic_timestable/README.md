@@ -1,0 +1,1 @@
+This program prints out the times table of the desired input integer from 0ne(1) to twelve(12).
